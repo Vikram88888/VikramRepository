@@ -1,0 +1,20 @@
+
+1654776170449,33,TC_01_WebTour_LoginPage1,200,OK,Login and Booking a Flight 1-1,text,true,,664,742,1,1,http://192.168.1.26:1080/WebTours/,32,0,24
+1654776170504,2,TC_01_WebTour_LoginPage2,200,OK,Login and Booking a Flight 1-1,text,true,,1007,782,1,1,http://192.168.1.26:1080/WebTours/header.html,1,0,0
+1654776170516,64,TC_01_WebTour_LoginPage3,200,OK,Login and Booking a Flight 1-1,text,true,,1092,793,1,1,http://192.168.1.26:1080/cgi-bin/welcome.pl?signOff=true,63,0,0
+1654776170581,122,TC_01_WebTour_LoginPage4,200,OK,Login and Booking a Flight 1-1,text,true,,1888,901,1,1,http://192.168.1.26:1080/cgi-bin/nav.pl?in=home,120,0,0
+1654776170705,45,TC_01_WebTour_LoginPage5,200,OK,Login and Booking a Flight 1-1,text,true,,1659,897,1,1,http://192.168.1.26:1080/WebTours/home.html,45,0,0
+1654776170769,1,TC_01_WebTour_LoginPage6,200,OK,Login and Booking a Flight 1-1,text,true,,601,732,1,1,http://192.168.1.26:1080/WebTours/JSFormSubmit.js,1,0,0
+1654776170770,64,TC_01_WebTour_LoginPage7,200,OK,Login and Booking a Flight 1-1,text,true,,851,1132,1,1,http://192.168.1.26:1080/cgi-bin/login.pl,62,0,0
+1654776170835,119,TC_01_WebTour_HomePage8,200,OK,Login and Booking a Flight 1-1,text,true,,1749,1006,1,1,http://192.168.1.26:1080/cgi-bin/nav.pl?in=home&page=menu,117,0,0
+1654776170960,109,TC_01_WebTour_HomePage9,200,OK,Login and Booking a Flight 1-1,text,true,,1158,1001,1,1,http://192.168.1.26:1080/cgi-bin/login.pl?intro=true,107,0,0
+1654776172137,63,TC_02_WebTour_Booking_Flight10,200,OK,Login and Booking a Flight 1-1,text,true,,843,1040,1,1,http://192.168.1.26:1080/cgi-bin/welcome.pl?page=search,62,0,0
+1654776172201,129,TC_02_WebTour_Booking_Flight11,200,OK,Login and Booking a Flight 1-1,text,true,,1749,1023,1,1,http://192.168.1.26:1080/cgi-bin/nav.pl?in=flights&page=menu,127,0,0
+1654776172331,130,TC_02_WebTour_Booking_Flight12,200,OK,Login and Booking a Flight 1-1,text,true,,4520,1024,1,1,http://192.168.1.26:1080/cgi-bin/reservations.pl?page=welcome,128,0,0
+1654776172462,131,TC_02_WebTour_Booking_Flight13,200,OK,Login and Booking a Flight 1-1,text,true,,984,1347,1,1,http://192.168.1.26:1080/cgi-bin/reservations.pl,129,0,0
+1654776172594,143,TC_02_WebTour_Booking_Flight14,200,OK,Login and Booking a Flight 1-1,text,true,,2971,1280,1,1,http://192.168.1.26:1080/cgi-bin/reservations.pl,142,0,0
+1654776172738,124,TC_02_WebTour_Booking_Flight15,200,OK,Login and Booking a Flight 1-1,text,true,,2865,1472,1,1,http://192.168.1.26:1080/cgi-bin/reservations.pl,123,0,0
+1654776172863,127,TC_03_WebTour_Verfiy_Booking_Flight16,200,OK,Login and Booking a Flight 1-1,text,true,,818,1022,1,1,http://192.168.1.26:1080/cgi-bin/welcome.pl?page=itinerary,126,0,0
+1654776172991,124,TC_03_WebTour_Verfiy_Booking_Flight17,200,OK,Login and Booking a Flight 1-1,text,true,,1749,1004,1,1,http://192.168.1.26:1080/cgi-bin/nav.pl?in=itinerary&page=menu,122,0,0
+1654776173115,357,TC_03_WebTour_Verfiy_Booking_Flight18,200,OK,Login and Booking a Flight 1-1,text,true,,2297364,987,1,1,http://192.168.1.26:1080/cgi-bin/itinerary.pl,122,0,0
+1654776173475,1,Debug Sampler,200,OK,Login and Booking a Flight 1-1,text,true,,576,0,1,1,null,0,0,0
